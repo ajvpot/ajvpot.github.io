@@ -39,21 +39,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: ""
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
-  github: vanderpot
+#  email: ""
+  github: ajvpot
   twitter: ajvpot
+  linkedin: alex-vanderpot-a7a81b9a
+  spotify: 22p4islv2ug4p5robukhlsddq
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
+#  facebook: deanattali
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -68,7 +67,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Alex Vanderpot's personal blog.
 
 # --- General options --- #
 
