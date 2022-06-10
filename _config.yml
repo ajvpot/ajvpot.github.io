@@ -19,7 +19,7 @@ author: Alex Vanderpot
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Notes: "/notes"
+  Notes: "/notes/#/page/Home"
   "Résumé": "/resume"
 
 # --- Logo --- #
