@@ -1,7 +1,8 @@
 #url: 'https://vanderpot.com'
 name: 'Alex Vanderpot'
 title: 'Alex Vanderpot'
-description: ''
+description: |
+  Alex Vanderpot's personal blog. Read about software engineering and security.
 
 # Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
