@@ -1,0 +1,19 @@
+@media (prefers-color-scheme: dark) {
+    :root {
+        --accent: #608BA6;
+        --color-primary: white;
+        --color-secondary: #798baf;
+        --color-bg: #14171f;
+        --item-bg: #181b26;
+    }
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, Helvetica, "Segoe UI", "Noto Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji" !important;
+    font-size: 14px !important;
+}
+
+.li-name {
+    padding-top: 0 !important;
+    padding-bottom: 1rem !important;
+}

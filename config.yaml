@@ -1,0 +1,24 @@
+baseURL: https://vanderpot.com/
+languageCode: en-us
+disablePathToLower: true
+languageCode: en-us
+title: Alex Vanderpot
+paginate: 6
+
+author:
+  name: Alex Vanderpot
+  image: https://avatars.githubusercontent.com/u/553597
+  domain: vanderpot.com
+
+params:
+  skin: 'vanderpot'
+  description: "Discover the latest in online security with Alex Vanderpot's personal blog. Stay up to date on the latest developments, gain a deeper understanding of the principles, and get insights on technology and trends."
+  githubuser: ajvpot
+  twitteruser: ajvpot
+  mastodon: 'https://infosec.exchange/@vanderpot'
+
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
