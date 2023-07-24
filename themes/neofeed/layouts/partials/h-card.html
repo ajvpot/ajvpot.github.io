@@ -21,8 +21,6 @@
                 <a rel="me" href="{{ . }}">mastodon</a>{{ end }}
                 {{ with .Site.Params.twitteruser }} {{ $.Site.Params.separator | default "∙" }}
                 <a rel="me" href="https://twitter.com/{{ . }}">twitter</a>{{ end }}
-                {{ with .Site.Params.resume }} {{ $.Site.Params.separator | default "∙" }}
-                <a rel="me" href="{{ . }}">hire me</a>{{ end }}
             </address>
             <p class="p-note">
                 {{ $bio := "author/about.md" }}
