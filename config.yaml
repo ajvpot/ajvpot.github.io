@@ -16,6 +16,7 @@ params:
   githubuser: ajvpot
   twitteruser: ajvpot
   mastodon: 'https://infosec.exchange/@vanderpot'
+  resume: 'https://vanderpot.com/resume'
 
 outputs:
   home:

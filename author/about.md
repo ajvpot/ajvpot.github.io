@@ -1,1 +1,0 @@
-[hire me](/resume)
